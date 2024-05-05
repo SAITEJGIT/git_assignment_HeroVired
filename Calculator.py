@@ -29,7 +29,6 @@ class Calculator:
 if __name__ == "__main__":
 
   calculator = Calculator()
-
   num1 = 16
 
   num2 = 4
